@@ -13,7 +13,7 @@ This application: <b>
 
 > Drag and Drop by using F key<b>
  
-> Communication with GameMode for game logics<b>
+> Communication with GameMode to check game logics<b>
  
 > Blueprint only<b><b><b>
 
