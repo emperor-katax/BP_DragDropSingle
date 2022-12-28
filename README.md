@@ -29,7 +29,3 @@ Widget<b>
 GameMode <b>
  
 Collision handling </b><b><b>
- 
- 
-
-Cheers … ; ] ,,,
